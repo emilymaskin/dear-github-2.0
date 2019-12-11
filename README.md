@@ -413,6 +413,7 @@ Signed,
 - Mano Marks, @ManoMarks
 - Jason Martens, @jasonmartens (Software Engineer)
 - Danilo Martins, @mawkee (Software Engineer)
+- Emily Maskin, @emilymaskin (VP of Engineering)
 - Matthew Masurka, @gigamesh (Web Developer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Jefferson Matheus, @jefferson227 (Software Developer)
